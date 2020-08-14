@@ -6,7 +6,6 @@ if (domain == "google") {
     document.getElementById('hplogo').src = "https://raw.githubusercontent.com/JNSAPH/Firefox-Extensions/master/Guwugle/assets/logo.png"
     document.getElementById('hplogo').srcset = "https://raw.githubusercontent.com/JNSAPH/Firefox-Extensions/master/Guwugle/assets/logo.png"
     document.getElementById('hplogo').style.width = "auto";
-    document.getElementById('hplogo').height = 120;
 
     // Change Title
     document.title = document.title.replace("Google", "Guwugle")
