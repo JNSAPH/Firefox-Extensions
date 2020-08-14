@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  a Collection of Firefox Extensions
+  a collection of Firefox extensions
 </h3>
 
 - [Guwugle](/Guwugle)
