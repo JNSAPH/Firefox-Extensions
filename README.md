@@ -1,5 +1,5 @@
 <h1 align="center">
-  Firefox Extensions
+  Firefox extensions
 </h1>
 
 <h3 align="center">
